@@ -1,5 +1,5 @@
 # SDR-Public
-This is the public-facing issue tracker for the SCHARE Data Repository, where users can report problems, request features, and provide feedback related to the repository's website and services.
+This is the public-facing issue tracker for the [SCHARE Data Repository](https://schare-repository.nimhd.nih.gov/), where users can report problems, request features, and provide feedback related to the repository's website and services.
 
 If you encounter any issues such as broken links, data access problems, or website functionality errors, please open a GitHub issue here. Our team will review and address reported concerns as we work to improve the SCHARE Data Repository.
 
