@@ -4,7 +4,7 @@ This is the public-facing issue tracker for the SCHARE Data Repository, where us
 If you encounter any issues such as broken links, data access problems, or website functionality errors, please open a GitHub issue here. Our team will review and address reported concerns as we work to improve the SCHARE Data Repository.
 
 **How to Report an Issue**
-1. Click on the **Issues** tab.
+1. Click on the [**Issues**](https://github.com/NIH-ScHARe/SDR-Public/issues) tab.
 2. Select **New Issue** and choose the appropriate template.
 3. Provide a clear description of the problem, steps to reproduce it, and any relevant screenshots or error messages.
 
